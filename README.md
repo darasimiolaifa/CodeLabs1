@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Jasmine Demo
+# CodeLabs 1
 This repository contains a OOP class definition. It contains a javascript class named Car with methods, properties, and getter methods for accessing certain properties of the class.
 
 ## Testing
