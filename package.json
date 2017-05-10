@@ -1,0 +1,28 @@
+{
+  "name": "bootcamp_training_day_02",
+  "version": "1.0.0",
+  "description": "A repository showing a simple class defition to pactice simple concepts of object-oriented programming.",
+  "main": "app/CodeLabs.js",
+  "scripts": {
+    "test": "spec/test-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darasimiolaifa/bootcamp_training_day_02.git"
+  },
+  "keywords": [
+    "OOP",
+    "Class",
+    "javascript",
+    "ES6"
+  ],
+  "author": "Olaifa Darasimi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darasimiolaifa/bootcamp_training_day_02/issues"
+  },
+  "homepage": "https://github.com/darasimiolaifa/bootcamp_training_day_02#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
